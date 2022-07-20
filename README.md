@@ -9,4 +9,12 @@ This is a 3d chess set I designed in Blender and 3d printed with my ender 3 V2.
 
 ![294904751_10160049451924630_1550946100118938552_n](https://user-images.githubusercontent.com/50530429/179878089-821d5601-31e7-427c-908c-8348dbecedd4.jpeg)
 
+### Steps :
+ 1- Print the chess board
+ 2- Print the red chess pieces
+ 3- Change the filament to blue
+ 4 - Print the blue chess pieces
+ 5 - Print the blue chess squares
+ 6 - Stick the blue squares to the holes in the board
+
 Made by Marco, July 19 2022.
